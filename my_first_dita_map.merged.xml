@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/lenovo/Desktop/docs_/my_first_dita_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">My first dita map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">My first dita map</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_first_task"><resourceid appid="t_my_first_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">My first task</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Hello         there</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_my_first_reference_file"><resourceid appid="r_my_first_reference_file" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">my first reference file</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">let me add a panda here <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/istockphoto-1195743934-612x612.jpg" placement="inline"/></shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_second_tast"><resourceid appid="t_my_second_tast" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">My second tast</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">whale whale whale, it's kinda fun</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_my_second_reference_file"><resourceid appid="r_my_second_reference_file" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">my second reference file</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">look how happy he is <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/photo-1568430462989-44163eb1752f.jpg" placement="inline"/></shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_my_third_task"><resourceid appid="t_my_third_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">My third task</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Whereas I'm a little bit...</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="my_third_reference_file"><resourceid appid="my_third_reference_file" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">my third reference file</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">like this <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/252532575-Very-Funny-Animal-Faces-16.jpg" placement="inline"/></shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_so_let_s_play_a_game"><resourceid appid="t_so_let_s_play_a_game" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">So let's play a game</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/maxresdefault.jpg" placement="inline"/></shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_let_us_play_a_bit"><resourceid appid="r_let_us_play_a_bit" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">let us play a bit</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="glossentry"><topicmeta class="- map/topicmeta " data-topic-id="g_it_is_nice_to_have_a_glossary"><resourceid appid="g_it_is_nice_to_have_a_glossary" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">It is nice to have a glossary</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_thank_you"><resourceid appid="t_thank_you" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Thank you</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/file.jpg" placement="inline"/></shortdesc></topicmeta></topicref>
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="t_my_first_task" oid="t_my_first_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My first task</ph></title>
+    <shortdesc class="- topic/shortdesc ">Hello
+        there</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="r_my_first_reference_file" oid="r_my_first_reference_file" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my first reference file</ph></title>
+    <shortdesc class="- topic/shortdesc ">let me add a panda here <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/istockphoto-1195743934-612x612.jpg" id="unique_2_Connect_42_image_xy5_fft_zsb" nd:nd-id="image_xy5_fft_zsb" placement="inline"/></shortdesc>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="t_my_second_tast" oid="t_my_second_tast" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My second tast</ph></title>
+    <shortdesc class="- topic/shortdesc ">whale whale whale, it's kinda fun</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="r_my_second_reference_file" oid="r_my_second_reference_file" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my second reference file</ph></title>
+    <shortdesc class="- topic/shortdesc ">look how happy he is <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/photo-1568430462989-44163eb1752f.jpg" id="unique_4_Connect_42_image_kxg_jft_zsb" nd:nd-id="image_kxg_jft_zsb" placement="inline"/></shortdesc>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="t_my_third_task" oid="t_my_third_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">My third task</ph></title>
+    <shortdesc class="- topic/shortdesc ">Whereas I'm a little bit...</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="my_third_reference_file" oid="my_third_reference_file" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">my third reference file</ph></title>
+    <shortdesc class="- topic/shortdesc ">like this <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/252532575-Very-Funny-Animal-Faces-16.jpg" id="unique_6_Connect_42_image_lls_mft_zsb" nd:nd-id="image_lls_mft_zsb" placement="inline"/></shortdesc>
+    <refbody class="- topic/body        reference/refbody "> </refbody>
+</reference><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_so_let_s_play_a_game" oid="t_so_let_s_play_a_game" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">So let's play a game</ph></title>
+    <shortdesc class="- topic/shortdesc "><image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/maxresdefault.jpg" id="unique_7_Connect_42_image_yp1_pft_zsb" nd:nd-id="image_yp1_pft_zsb" placement="inline"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="r_let_us_play_a_bit" oid="r_let_us_play_a_bit" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">let us play a bit</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_8_Connect_42_table_ycz_qft_zsb" nd:nd-id="table_ycz_qft_zsb" rowsep="1">
+            <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "/></title>
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/lenovo/Desktop/docs_/topics/r_let_us_play_a_bit.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/lenovo/Desktop/docs_/topics/r_let_us_play_a_bit.dita" style="width:50%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">this is a table</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">yes it is </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"/>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"/>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3"/>
+                    </row>
+                    <row class="- topic/row ">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"/>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">cool</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><glossentry break-before="true" is-chapter="true" class="- topic/topic concept/concept glossentry/glossentry " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="g_it_is_nice_to_have_a_glossary" oid="g_it_is_nice_to_have_a_glossary" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">It is nice to have a glossary</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">let us try this. Yes, nice.  <image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/photo-1593871075120-982e042088d8.jpg" id="unique_9_Connect_42_image_djl_wft_zsb" nd:nd-id="image_djl_wft_zsb" placement="inline"/></glossdef>
+</glossentry><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="t_thank_you" oid="t_thank_you" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Thank you</ph></title>
+    <shortdesc class="- topic/shortdesc "><image class="- topic/image " href="file:/C:/Users/lenovo/Desktop/docs_/whatnot/file.jpg" id="unique_10_Connect_42_image_x34_vft_zsb" nd:nd-id="image_x34_vft_zsb" placement="inline"/></shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task></map>
