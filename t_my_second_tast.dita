@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_my_second_tast">
     <title>My second tast</title>
-    <shortdesc>whale whale whale it's kinda fun</shortdesc>
+    <shortdesc>whale whale whale, it's kinda fun</shortdesc>
     <taskbody>
         <context>
             <p></p>
