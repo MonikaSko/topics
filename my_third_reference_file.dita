@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="my_third_reference_file">
+    <title>my third reference file</title>
+    <shortdesc>like this <image href="../whatnot/252532575-Very-Funny-Animal-Faces-16.jpg"
+            id="image_lls_mft_zsb"/></shortdesc>
+    <refbody> </refbody>
+</reference>

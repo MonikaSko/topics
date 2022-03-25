@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_my_second_reference_file">
+    <title>my second reference file</title>
+    <shortdesc>look how happy he is <image href="../whatnot/photo-1568430462989-44163eb1752f.jpg"
+            id="image_kxg_jft_zsb"/></shortdesc>
+    <refbody> </refbody>
+</reference>

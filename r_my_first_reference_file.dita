@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_my_first_reference_file">
+    <title>my first reference file</title>
+    <shortdesc>let me add a panda here <image href="../whatnot/istockphoto-1195743934-612x612.jpg"
+            id="image_xy5_fft_zsb"/></shortdesc>
+    <refbody> </refbody>
+</reference>
